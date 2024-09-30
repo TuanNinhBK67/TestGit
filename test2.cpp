@@ -8,5 +8,6 @@ int main(){
     cout << (b - a) << endl;
     cout << (b / a) << endl;
     cout << (b % a) << endl;
+    cout << (a * b) << endl;
     return 0;
 }
