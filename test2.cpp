@@ -5,5 +5,6 @@ using namespace std;
 int main(){
     int a = 10, b = 15;
     cout << (a + b) << endl;
+    cout << (b - a) << endl;
     return 0;
 }
