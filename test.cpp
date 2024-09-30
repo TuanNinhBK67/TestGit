@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "Today is Monday" << endl;
+    cout << "Today is Monday" << "Let's try your best!" << endl;
     return 0;
 }
